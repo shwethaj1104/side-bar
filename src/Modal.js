@@ -9,7 +9,7 @@ const Modal = () => {
     <div className={`${isModalOpen ? 'modal-overlay show-modal' : 'modal-overlay'}`}>
       <div className='modal-container'>
         <h3>Modal content</h3>
-        <button className='close=-modal-btn' onClick={closeModal}>
+        <button className='close-modal-btn' onClick={closeModal}>
           <FaTimes />
         </button>
       </div>

@@ -3,6 +3,7 @@ Application built on React.js.
 
 Checkout aplication at : https://side-bar-rust.vercel.app/
 
+User can navigate to different pages via provuded side navigation bar.
 
 Side Navigation bar :
 

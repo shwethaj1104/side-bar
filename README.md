@@ -1,4 +1,4 @@
-# SideBar
+# Side Navigation
 Application built on React.js.
 
 

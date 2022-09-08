@@ -1,7 +1,7 @@
 # Side Navigation Bar
 Application built on React.js.
 
-Checkout aplication
+Checkout aplication at :
 
 
 Side Navigation bar :

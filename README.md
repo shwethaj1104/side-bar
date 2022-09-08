@@ -1,4 +1,4 @@
-# Side-Bar
+# SideBar
 Application built on React.js.
 
 

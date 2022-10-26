@@ -1,4 +1,4 @@
-# Side Navigarion Bar
+# Side Navigation Bar
 Application is built on React.js.
 
 Checkout aplication at vercel : https://side-bar-rust.vercel.app/

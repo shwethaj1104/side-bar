@@ -1,7 +1,7 @@
 # Side Navigation Bar
 Application is built on React.js.
 
-Checkout application at : https://side-bar-rust.vercel.app/
+Checkout application at link : https://side-bar-rust.vercel.app/
 
 User can navigate to different pages via provided navigation bar. It also have a simple modal box :
 
